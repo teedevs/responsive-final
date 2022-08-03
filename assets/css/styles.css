@@ -386,6 +386,7 @@ input {
   padding: 1rem 2rem;
   font-weight: var(--font-semi-bold);
   transition: .3s;
+  border-radius: 8%;
 }
 
 .button:hover {
